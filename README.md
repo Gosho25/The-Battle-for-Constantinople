@@ -13,7 +13,11 @@ The story is still in progres, but its 80 % ready and i will put it here!
 ## License
 
 -This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
+
 -You may view and use the code for personal and non-commercial purposes only.
+
 -Commercial use is strictly prohibited.
+
 -All game assets and design are fully reserved.
+
 -Full legal text: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/legalcode)
