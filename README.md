@@ -1,5 +1,5 @@
 # The Battle for Constantinople
-*From the mud to the gold*
+*"From the mud to the gold"*
 
 ## Chapter 1: The idea
 I am someone who enjoys learning programming and exploring new ideas. My hobbies are programming and playing computer games, so I decided to combine them and create this game. 
